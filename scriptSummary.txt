@@ -1,0 +1,1 @@
+The script found 2 executable files, 1 of which appeared to be malicious, birdSpy.exe. The script also found 2 guest/anonymous logins and many attempted logins.
